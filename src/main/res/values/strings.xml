@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3D_Text</string>
+    <string name="zoom_out">Zoom out</string>
+
+    <color name="highlightedTextViewColor">#000088</color>
+    <color name="normalTextViewColor">#000044</color>
+</resources>
